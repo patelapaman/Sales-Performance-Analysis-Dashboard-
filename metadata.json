@@ -1,0 +1,8 @@
+{
+  "name": "Sales Performance Analysis Dashboard",
+  "description": "An enterprise sales performance and business intelligence platform with interactive coordinates, a real-time relational SQL playground, CSV exports, dynamic MySQL dump compilers, and GenAI forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
